@@ -1,8 +1,5 @@
 # Image to PDF Merger
 
-## Name: 
-image converter
-
 ## Version: 
 0.1.0
 
