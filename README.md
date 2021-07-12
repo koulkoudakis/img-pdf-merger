@@ -1,13 +1,19 @@
 # Image to PDF Merger
 
-Name: image converter
+## Name: 
+image converter
 
-Version: 0.1.0
+## Version: 
+0.1.0
 
-Description: Simple script converts all image files in the /images directory to .jpg, if necessary, then merges them into one .pdf file
+## Description: 
+Simple script converts all image files in the /images directory to .jpg, if necessary, then merges them into one .pdf file
 
-Author: Sharome Burton
+## Author: 
+Sharome Burton
 
-Repository: https://github.com/koulkoudakis/img-pdf-merger
+## Repository: 
+https://github.com/koulkoudakis/img-pdf-merger
 
-Repl: https://replit.com/@Koulkoudakis/Image-PDF-Merger#main.py
+## Repl: 
+https://replit.com/@Koulkoudakis/Image-PDF-Merger#main.py
